@@ -1,0 +1,99 @@
+1
+00:00:00,330 --> 00:00:04,860
+Just before we move on to editing our app and changing the way it looks and behaves Quickly we want
+
+2
+00:00:04,860 --> 00:00:08,970
+to show you how to open up these sample projects that come with of course after each video you'll see
+
+3
+00:00:08,970 --> 00:00:14,230
+that there's a sample project that you can download to view the actual content created in that video.
+
+4
+00:00:14,230 --> 00:00:15,900
+A lot of people ask how to open those.
+
+5
+00:00:15,900 --> 00:00:17,780
+I want to show you two ways to do it now.
+
+6
+00:00:18,000 --> 00:00:26,340
+So one option and the one I'd recommend is let's just close our project here and open up Android studio
+
+7
+00:00:26,550 --> 00:00:35,460
+to see the welcome screen and then just select open an existing Android studio project and then open
+
+8
+00:00:35,460 --> 00:00:41,760
+the folder that you downloaded the project to hopefully have unzipped it and you should see the project
+
+9
+00:00:41,760 --> 00:00:42,240
+there.
+
+10
+00:00:42,330 --> 00:00:50,390
+Example app and then open it will load the app from the file contents.
+
+11
+00:00:50,470 --> 00:00:57,420
+But another way of doing it lets just close that down again is to navigate to the folder itself.
+
+12
+00:00:57,640 --> 00:01:01,810
+And this is where people sometimes get a bit confused because it's not obvious which file you actually
+
+13
+00:01:01,810 --> 00:01:05,110
+click on to load the project into Android studio.
+
+14
+00:01:05,110 --> 00:01:10,540
+The answer is you double click the build dock cradle file and then if that's the first time you've done
+
+15
+00:01:10,540 --> 00:01:17,560
+it you'll need to choose Android studio as the application to associate cradle files with.
+
+16
+00:01:17,780 --> 00:01:19,950
+I just find it in your applications.
+
+17
+00:01:21,440 --> 00:01:22,910
+There it is.
+
+18
+00:01:22,910 --> 00:01:27,830
+Click open and as usual I'd stick to the defaults.
+
+19
+00:01:29,610 --> 00:01:37,530
+You can overwrite any files and then open existing projects.
+
+20
+00:01:39,930 --> 00:01:40,450
+There we go.
+
+21
+00:01:40,610 --> 00:01:41,750
+So those are the two ways to do it.
+
+22
+00:01:41,750 --> 00:01:47,450
+I'd recommend using file open either within Android studio itself or on the Welcome Screen.
+
+23
+00:01:47,470 --> 00:01:51,220
+We want to do it directly you just double click the build cradle file.
+
+24
+00:01:51,440 --> 00:01:52,070
+All right.
+
+25
+00:01:52,070 --> 00:01:55,680
+Enough of this let's get started building and editing apps.

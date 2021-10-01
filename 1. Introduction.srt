@@ -1,0 +1,59 @@
+1
+00:00:00,930 --> 00:00:06,540
+Walk into Section 2 of The Complete Android develop because hopefully you've now got all of the free
+
+2
+00:00:06,540 --> 00:00:09,610
+stuff and it's time to start writing some code.
+
+3
+00:00:09,720 --> 00:00:12,050
+So we'll begin by downloading Android studio.
+
+4
+00:00:12,210 --> 00:00:16,800
+So what's the appropriate video for either Windows or Mac depending on your operating system.
+
+5
+00:00:16,950 --> 00:00:22,170
+And then we'll take a tour of the Android studio interface and see how Android apps are put together.
+
+6
+00:00:22,620 --> 00:00:28,440
+Then we'll start adding things like text views buttons and images to create a user interface for our
+
+7
+00:00:28,440 --> 00:00:28,870
+app.
+
+8
+00:00:29,040 --> 00:00:33,210
+And we'll start writing code to make apps interactive.
+
+9
+00:00:33,210 --> 00:00:37,920
+At the end of the section we'll make a currency converter app which will be your first big challenge
+
+10
+00:00:38,160 --> 00:00:44,010
+to put a hole up together in Android studio and run it right there on your machine in the emulator.
+
+11
+00:00:44,890 --> 00:00:50,200
+At the same time I encourage you to download a copy of My Book House and $10000 while learning to code
+
+12
+00:00:50,530 --> 00:00:54,630
+and start jotting down a few ideas for apps that you would like to build.
+
+13
+00:00:54,640 --> 00:00:59,530
+There's nothing like having a real idea for an app that you want to end up in Google Play to encourage
+
+14
+00:00:59,530 --> 00:01:03,810
+you and help you along as you're learning everything that comes in this course.
+
+15
+00:01:04,470 --> 00:01:08,460
+Other than that I do enjoy the section and I'll see you at the beginning of the next one.

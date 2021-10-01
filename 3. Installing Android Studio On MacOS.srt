@@ -1,0 +1,151 @@
+1
+00:00:00,250 --> 00:00:04,560
+In this video I'm going to show you how to download the one and only piece of software you need for
+
+2
+00:00:04,560 --> 00:00:06,300
+this course Android studio.
+
+3
+00:00:06,510 --> 00:00:10,380
+If you're on Windows you can jump straight to the next video where I'll lead you through the process
+
+4
+00:00:10,470 --> 00:00:11,460
+using Windows 10.
+
+5
+00:00:11,490 --> 00:00:17,580
+But in this video I'll show you how to get Android studio on Mac OS so all you need to do is go to your
+
+6
+00:00:17,580 --> 00:00:19,560
+favorite search engine.
+
+7
+00:00:20,250 --> 00:00:25,830
+Type in Android studio and you can see the top result there for me is developer dot Android dot com
+
+8
+00:00:26,580 --> 00:00:28,180
+slash studio.
+
+9
+00:00:28,920 --> 00:00:30,390
+That's what you want.
+
+10
+00:00:30,390 --> 00:00:36,210
+So Android studio is currently on version 3 and it's a complete system that allows you to both design
+
+11
+00:00:36,240 --> 00:00:42,120
+and Cojo apps and you can also run them in an emulator on your computer so you don't need a phone or
+
+12
+00:00:42,120 --> 00:00:45,170
+a smartwatch or a tablet to actually test your applications.
+
+13
+00:00:45,170 --> 00:00:52,170
+I can do everything from within Android studio so click the big green download Android studio button
+
+14
+00:00:52,920 --> 00:00:58,290
+agree to the terms and conditions and then click the blue download button that will maybe take a little
+
+15
+00:00:58,290 --> 00:01:00,020
+while to download it is a pretty big file.
+
+16
+00:01:00,300 --> 00:01:02,010
+So have a break have a cup of tea.
+
+17
+00:01:02,040 --> 00:01:03,820
+Come back when you're done.
+
+18
+00:01:04,260 --> 00:01:11,090
+All done then you just need to flip over to find the look in your downloads and you should have this
+
+19
+00:01:11,110 --> 00:01:17,430
+address judaeo DMG file which you just double click on and then it will verify unpack and allow you
+
+20
+00:01:17,430 --> 00:01:19,400
+to install it.
+
+21
+00:01:19,410 --> 00:01:25,170
+Now we're going to just drag Android studio over into applications and it will complete the installation
+
+22
+00:01:25,170 --> 00:01:26,110
+process.
+
+23
+00:01:28,300 --> 00:01:29,540
+And that's it.
+
+24
+00:01:30,400 --> 00:01:35,050
+Once you've done that open Android studio in the way you would any application I use command space to
+
+25
+00:01:35,050 --> 00:01:41,120
+open spotlight's and then just search for Android and it should be towards the top there.
+
+26
+00:01:41,230 --> 00:01:48,790
+DoubleClick on George do you ask you if you want to open it and we'll say yes you will then get this
+
+27
+00:01:48,790 --> 00:01:50,650
+loading screen.
+
+28
+00:01:50,650 --> 00:01:57,310
+It might need to download some extra components and then you get to the set up with it which just allows
+
+29
+00:01:57,310 --> 00:01:59,350
+you to choose a few options.
+
+30
+00:01:59,350 --> 00:02:02,500
+We're going to go for the standard installation.
+
+31
+00:02:02,500 --> 00:02:07,060
+I'm going to use the default like theme but if you prefer dark you can choose the dark killer theme
+
+32
+00:02:07,060 --> 00:02:08,550
+then next.
+
+33
+00:02:08,560 --> 00:02:16,570
+Again I would allow it to choose all these default SDK that is software development kit components and
+
+34
+00:02:16,570 --> 00:02:18,370
+then click Finish.
+
+35
+00:02:18,370 --> 00:02:23,260
+Again it'll take a little while to download but when it's done you'll finally be ready to get started
+
+36
+00:02:23,530 --> 00:02:25,140
+with developing for Android.
+
+37
+00:02:25,390 --> 00:02:28,430
+And then when you're done you should see the Wolken to endorse Judaea message.
+
+38
+00:02:28,540 --> 00:02:33,350
+And this is where will kick off in our Andrys to yota at the beginning of the next video.

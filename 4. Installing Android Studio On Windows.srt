@@ -1,0 +1,123 @@
+1
+00:00:00,420 --> 00:00:04,110
+This video I'll show you how to install Android studio on Windows.
+
+2
+00:00:04,260 --> 00:00:09,280
+So if you've already got android studio or you're not on Windows just skip to the next lecture.
+
+3
+00:00:09,810 --> 00:00:20,130
+So just go to Google and search for Android studio download and you should find that the top result
+
+4
+00:00:20,790 --> 00:00:21,450
+is this one here.
+
+5
+00:00:21,450 --> 00:00:27,290
+So it's developed dot Android dot com slash studio Sastry index Drage TNL.
+
+6
+00:00:27,420 --> 00:00:32,910
+And this will take you to the beach see download the latest version of Android studio which at the time
+
+7
+00:00:32,910 --> 00:00:35,570
+of recording is 3.2 0.1.
+
+8
+00:00:36,210 --> 00:00:44,740
+So just click the green button to download Android studio agree to the terms and conditions and then
+
+9
+00:00:45,340 --> 00:00:47,310
+Android studio should start downloading.
+
+10
+00:00:47,530 --> 00:00:48,560
+It's a pretty big file.
+
+11
+00:00:48,640 --> 00:00:53,470
+So you might want to go off and get a quick cup of tea well done.
+
+12
+00:00:53,730 --> 00:00:54,400
+Excellent.
+
+13
+00:00:54,450 --> 00:00:55,620
+You can now click run.
+
+14
+00:00:55,720 --> 00:01:01,680
+So you open up the studio installation program you'll need to allow the app to make changes to your
+
+15
+00:01:01,680 --> 00:01:03,960
+device choose the installation folder.
+
+16
+00:01:03,960 --> 00:01:08,930
+I'd go for the default if you've got an older version it'll ask to overwrite it.
+
+17
+00:01:09,270 --> 00:01:10,330
+So just click yes.
+
+18
+00:01:10,590 --> 00:01:13,860
+You'll very likely need Android virtual devices to follow along with this course.
+
+19
+00:01:13,860 --> 00:01:17,360
+So keep that option selected and click next.
+
+20
+00:01:17,520 --> 00:01:24,450
+And again Jees the final installation options are to stick with all of the defaults and then let it
+
+21
+00:01:24,450 --> 00:01:25,260
+do its thing.
+
+22
+00:01:27,130 --> 00:01:32,420
+Once that's completed click next and finish it to start Android studio.
+
+23
+00:01:33,410 --> 00:01:35,630
+And then you'll be greeted with the set up wizard.
+
+24
+00:01:35,780 --> 00:01:37,010
+So we're not quite there yet.
+
+25
+00:01:37,310 --> 00:01:41,030
+But again we'll just stick to the very standard options.
+
+26
+00:01:41,150 --> 00:01:43,000
+So essentially just keep clicking next.
+
+27
+00:01:44,450 --> 00:01:50,300
+Install the default components click Finish and then you'll have another bit of a white wall it downloads
+
+28
+00:01:50,600 --> 00:01:52,770
+the necessary components to run.
+
+29
+00:01:53,210 --> 00:01:54,840
+And then we're done.
+
+30
+00:01:54,890 --> 00:02:00,920
+So I just click Finish and now we're ready to finally learn Android development which will start in
+
+31
+00:02:00,920 --> 00:02:01,790
+the next lecture.
