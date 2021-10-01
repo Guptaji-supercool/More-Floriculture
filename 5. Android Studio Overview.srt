@@ -1,0 +1,639 @@
+1
+00:00:06,280 --> 00:00:11,410
+Excellence so you've now installed and or a studio and you're hopefully presented with the Welcome screen
+
+2
+00:00:11,410 --> 00:00:13,860
+here as you can see there are lots of options here.
+
+3
+00:00:13,900 --> 00:00:19,210
+Most of which are reasonably self-explanatory but we're going to dive straight in and start a new Android
+
+4
+00:00:19,210 --> 00:00:20,720
+studio project.
+
+5
+00:00:21,340 --> 00:00:24,550
+This takes us to the first of a few options screens.
+
+6
+00:00:25,120 --> 00:00:31,650
+Let's start by filling in the application name and for now we'll just call it example app.
+
+7
+00:00:31,840 --> 00:00:34,600
+The next option is to select your company Dumaine.
+
+8
+00:00:34,600 --> 00:00:39,250
+Now at this point in your Android development career you probably don't have your own domain name but
+
+9
+00:00:39,250 --> 00:00:43,960
+don't worry you can really put anything you like here for now though when you start publishing apps
+
+10
+00:00:44,050 --> 00:00:46,190
+you will need to have a unique domain.
+
+11
+00:00:46,270 --> 00:00:49,830
+So if you like you can leave that as the example that you're given.
+
+12
+00:00:50,020 --> 00:00:52,550
+Or you can change it to really whatever you like.
+
+13
+00:00:54,320 --> 00:01:00,680
+I'm going to change it to rob my app company dot com just to show you that you can use literally anything
+
+14
+00:01:00,680 --> 00:01:01,460
+you like here.
+
+15
+00:01:01,580 --> 00:01:04,970
+Then you can choose where the project is saved on your harddrive.
+
+16
+00:01:05,000 --> 00:01:10,490
+I'm just going to use the default location if you want to you can edit the package name just created
+
+17
+00:01:10,490 --> 00:01:13,710
+from your company domain and the name of your app.
+
+18
+00:01:13,790 --> 00:01:18,830
+But generally I would leave that as the default as it might cause confusion later if you do change it.
+
+19
+00:01:19,210 --> 00:01:23,120
+And down here you can choose to include C++ or Kollin support.
+
+20
+00:01:23,120 --> 00:01:26,290
+We'll be looking at Cartland later on in the course but we're not using it yet.
+
+21
+00:01:26,330 --> 00:01:29,410
+So you can leave both of those blank.
+
+22
+00:01:29,460 --> 00:01:36,710
+All right click next and you can now choose the form factors and minimum SDK so form factors are reasonably
+
+23
+00:01:36,710 --> 00:01:37,270
+straightforward.
+
+24
+00:01:37,280 --> 00:01:42,370
+If you're developing an app which is going to be used on phone and tablets which you probably are then
+
+25
+00:01:42,380 --> 00:01:48,530
+select the first option and the options down here we've got android where Android TV and 2.0 and Android
+
+26
+00:01:48,530 --> 00:01:53,750
+things if you're developing for those platforms you would select those a slightly trickier question
+
+27
+00:01:53,750 --> 00:01:56,240
+is which API version to use.
+
+28
+00:01:56,300 --> 00:02:01,250
+Now if you look at the drop down menu you can see that the various API versions correspond to the different
+
+29
+00:02:01,250 --> 00:02:03,530
+versions of Android that are out there.
+
+30
+00:02:03,860 --> 00:02:11,120
+So the later version you choose the more recent functions and features will be available to you but
+
+31
+00:02:11,330 --> 00:02:18,490
+the fewer devices your app will run on because a lot of devices are still running onsite lollipop.
+
+32
+00:02:18,500 --> 00:02:26,780
+So if we select Android 6 marshmallow you can see that we can use any API from 23 and later but your
+
+33
+00:02:26,780 --> 00:02:30,090
+app will only run on about 40 percent of devices.
+
+34
+00:02:31,610 --> 00:02:33,710
+So it's a choice that you'll need to make.
+
+35
+00:02:33,710 --> 00:02:38,450
+But most of the time and at least in the early stages of your app development career you probably won't
+
+36
+00:02:38,450 --> 00:02:41,970
+bump into too many features that you need but don't have.
+
+37
+00:02:42,410 --> 00:02:44,420
+So let's stick with API 15 for now.
+
+38
+00:02:44,780 --> 00:02:51,620
+Click next and were given the option to add a default activity now an activity on Android is essentially
+
+39
+00:02:51,830 --> 00:02:52,800
+a screen.
+
+40
+00:02:52,910 --> 00:02:58,420
+So as you build variety of different apps you'll be adding different types of activities to your apps.
+
+41
+00:02:58,430 --> 00:03:00,130
+You can see we've got some examples there.
+
+42
+00:03:00,230 --> 00:03:04,850
+So you might start your app with a basic activity and then when the user wants to do something on a
+
+43
+00:03:04,850 --> 00:03:10,450
+map will jump to a Google Maps activity you can see there's a full screen activity.
+
+44
+00:03:10,550 --> 00:03:15,270
+Various other types of activity that we'll see later on as we go through the course.
+
+45
+00:03:15,490 --> 00:03:23,310
+For now they will just choose an empty activity so a very simple one get started and click next.
+
+46
+00:03:23,310 --> 00:03:27,180
+And this is our final option screen where we're allowed to name our activity.
+
+47
+00:03:27,290 --> 00:03:31,460
+The default for your initial activity is main activity.
+
+48
+00:03:31,460 --> 00:03:36,920
+So we're going to leave that as it is and the layout you can see the name for that is just the name
+
+49
+00:03:36,920 --> 00:03:37,630
+but reversed.
+
+50
+00:03:37,640 --> 00:03:40,690
+So activity underscore main Those are the defaults.
+
+51
+00:03:40,700 --> 00:03:45,480
+So we leave them as they are and click next.
+
+52
+00:03:45,650 --> 00:03:49,520
+You might find that there's some new components that have been installed to allow you to create your
+
+53
+00:03:49,520 --> 00:03:51,600
+app for that particular version of Android.
+
+54
+00:03:51,800 --> 00:03:53,440
+So if you do then click Finish.
+
+55
+00:03:53,630 --> 00:04:01,430
+And finally Android studio itself should boot up and create your example App project.
+
+56
+00:04:01,510 --> 00:04:02,250
+And here we go.
+
+57
+00:04:02,250 --> 00:04:08,910
+Your first glimpse of Android studio now for me Android studio has opened two default files here.
+
+58
+00:04:09,040 --> 00:04:10,480
+But you might not be able to see those.
+
+59
+00:04:10,480 --> 00:04:14,910
+It doesn't always open up the same default files when you create a new project.
+
+60
+00:04:14,980 --> 00:04:17,980
+So I'm just going to close everything down.
+
+61
+00:04:17,980 --> 00:04:19,340
+Clicking the X is there.
+
+62
+00:04:20,290 --> 00:04:21,400
+And there.
+
+63
+00:04:21,730 --> 00:04:26,860
+And I'm going to click project just to get us back to a completely empty screen.
+
+64
+00:04:26,860 --> 00:04:28,470
+I'd recommend doing the same.
+
+65
+00:04:28,570 --> 00:04:31,130
+So we're all at the same starting point.
+
+66
+00:04:31,350 --> 00:04:33,490
+So you can see we've got lots of different options here.
+
+67
+00:04:33,550 --> 00:04:39,070
+But part of the skill of learning to code is working out what's important and what's not particularly
+
+68
+00:04:39,070 --> 00:04:41,220
+at the early stages of your journey.
+
+69
+00:04:41,800 --> 00:04:48,370
+So at the top here we've got the file structure of our app leading to that main activity file that I
+
+70
+00:04:48,370 --> 00:04:49,450
+showed you a moment ago.
+
+71
+00:04:49,810 --> 00:04:53,370
+And then over here on the right we've got a number of different options.
+
+72
+00:04:53,380 --> 00:04:58,000
+The most important and the most exciting is this playbook which we'll be using in a minute to actually
+
+73
+00:04:58,000 --> 00:05:03,790
+run our app feel free to hover over these other buttons if you like to get a bit more information about
+
+74
+00:05:03,790 --> 00:05:05,040
+what they are.
+
+75
+00:05:05,290 --> 00:05:11,200
+But don't worry too much at this point want to keep it simple and then round the edge.
+
+76
+00:05:11,200 --> 00:05:12,880
+We've got some buttons.
+
+77
+00:05:13,270 --> 00:05:20,500
+All of which we'll be using at some point in the course but for the moment we're going to focus on the
+
+78
+00:05:20,590 --> 00:05:24,110
+project button which allows us to view our project.
+
+79
+00:05:24,550 --> 00:05:26,410
+Now we've got two key folders here.
+
+80
+00:05:26,410 --> 00:05:35,050
+We've got app and graded scripts cradle is an open source app building to Android studio uses to build
+
+81
+00:05:35,050 --> 00:05:36,990
+your app later on in the course.
+
+82
+00:05:37,000 --> 00:05:42,640
+We're going to be customizing these great old build scripts to customize and add features to our apps
+
+83
+00:05:42,910 --> 00:05:45,660
+but for the moment we can just leave those as they are.
+
+84
+00:05:46,090 --> 00:05:48,450
+So let's have a look inside the app folder.
+
+85
+00:05:48,640 --> 00:05:50,180
+So I've got three folders here.
+
+86
+00:05:50,380 --> 00:05:56,470
+The first is manifests which has a single file in it called Android manifest Let's have a quick look
+
+87
+00:05:56,470 --> 00:05:57,860
+at that one.
+
+88
+00:05:57,910 --> 00:06:03,760
+This is what's known as an X M-L file and it contains information about your app so you can see we've
+
+89
+00:06:03,760 --> 00:06:05,420
+got the app name there.
+
+90
+00:06:05,530 --> 00:06:10,430
+We've got details about the icons the package name and various other bits and pieces.
+
+91
+00:06:10,660 --> 00:06:14,130
+We'll be editing this later on just like with the greatest scripts to add features.
+
+92
+00:06:14,140 --> 00:06:21,170
+But for now we can pop that back in its folder and leave it as is of more interest at this point is
+
+93
+00:06:21,170 --> 00:06:25,280
+the java folder which is where the code for our app resides.
+
+94
+00:06:25,580 --> 00:06:30,780
+There's three folders within that these are test folders which we won't be using again.
+
+95
+00:06:30,790 --> 00:06:37,330
+Right now the one we're really interested in is that top folder which has a single file in it.
+
+96
+00:06:37,430 --> 00:06:43,510
+The main activity file and as I mentioned earlier this is some Java code which creates and sets up the
+
+97
+00:06:43,510 --> 00:06:45,330
+main activity in our app.
+
+98
+00:06:45,610 --> 00:06:48,460
+We'll be looking at that in much more detail in the next couple of videos.
+
+99
+00:06:48,730 --> 00:06:55,150
+And finally we have Reade's short for resources fold up which is where we keep things like images and
+
+100
+00:06:55,210 --> 00:06:55,820
+music.
+
+101
+00:06:55,920 --> 00:07:02,170
+Most importantly to us right now is the layout subfolder within That's where we can see this activity
+
+102
+00:07:02,170 --> 00:07:04,500
+main direct XML file.
+
+103
+00:07:04,720 --> 00:07:10,330
+And if you DoubleClick that you can actually see a visual representation of your app and this is where
+
+104
+00:07:10,330 --> 00:07:14,380
+you get started editing the actual content of the app and the layout.
+
+105
+00:07:14,560 --> 00:07:20,680
+So we're going to spend a lot of time in activity main Torex M-L working with layout and in main activity
+
+106
+00:07:20,920 --> 00:07:24,820
+working with some Java to actually make your app do things.
+
+107
+00:07:24,820 --> 00:07:30,160
+So feel free to take a moment to play around here and maybe add some buttons to your app and see what
+
+108
+00:07:30,160 --> 00:07:31,270
+effect it has.
+
+109
+00:07:31,270 --> 00:07:33,250
+Have a look at the different widgets that are available.
+
+110
+00:07:33,250 --> 00:07:35,660
+Different type of text views.
+
+111
+00:07:36,010 --> 00:07:39,990
+There's a lot that you can add to your app from there.
+
+112
+00:07:40,390 --> 00:07:44,820
+You might also want to see how your app would look on different devices.
+
+113
+00:07:45,070 --> 00:07:51,080
+So we've got a nexus 4 by default there but we can try the pixel fine.
+
+114
+00:07:51,220 --> 00:07:59,200
+We can look at some bigger resolution devices like the Nexus 9 and we can even look at watches or TV
+
+115
+00:07:59,200 --> 00:08:00,500
+screens.
+
+116
+00:08:00,510 --> 00:08:02,340
+We'll leave it on nexus for now.
+
+117
+00:08:02,350 --> 00:08:04,530
+But feel free again to play around with that.
+
+118
+00:08:04,660 --> 00:08:13,210
+And also you can see where your app would look like in landscape mode and switch back and forth as well.
+
+119
+00:08:13,460 --> 00:08:14,860
+So there's a huge amount you can do here.
+
+120
+00:08:14,870 --> 00:08:19,010
+Most of which we're going to look at at various points during the course but for now let's just try
+
+121
+00:08:19,010 --> 00:08:24,620
+and run our example app on a phone within the emulator and Android studio.
+
+122
+00:08:25,070 --> 00:08:31,310
+So we click the green play button there and here we get the screen that allows us to select the device
+
+123
+00:08:31,520 --> 00:08:33,510
+that we want the app to run on.
+
+124
+00:08:33,530 --> 00:08:39,050
+I don't have any phones or devices connected so we need to use a virtual device because I've only just
+
+125
+00:08:39,050 --> 00:08:42,270
+installed Android studio only to create a new one.
+
+126
+00:08:42,730 --> 00:08:45,620
+So let's do that create new virtual device.
+
+127
+00:08:45,750 --> 00:08:51,880
+And so this is very exciting you can choose any phone you like and you'll have an emulator for it and
+
+128
+00:08:51,890 --> 00:08:59,510
+you can use it right there within your computer and you can create a TV emulator an Android where emulator
+
+129
+00:08:59,540 --> 00:09:05,300
+and it's happy I might as well so I'm going to use the options as much as possible so we'll stick with
+
+130
+00:09:05,300 --> 00:09:06,280
+Nexus 5 x.
+
+131
+00:09:06,320 --> 00:09:09,410
+But really you can choose whichever one you like here.
+
+132
+00:09:10,130 --> 00:09:10,970
+Click next.
+
+133
+00:09:12,180 --> 00:09:14,840
+And now we get an option to flex a system image.
+
+134
+00:09:14,920 --> 00:09:18,850
+So what kind of Android do we want our device to run.
+
+135
+00:09:18,880 --> 00:09:24,280
+I'm going to go for the latest version of the recording of this video but at this point you're welcome
+
+136
+00:09:24,280 --> 00:09:27,220
+to try out other versions of Android If you prefer.
+
+137
+00:09:27,250 --> 00:09:34,000
+You'll likely have to download the version unless it's already installed.
+
+138
+00:09:34,000 --> 00:09:40,290
+So I click accept accept the terms and conditions and again it will take a few minutes to install and
+
+139
+00:09:40,290 --> 00:09:40,600
+there we go.
+
+140
+00:09:40,600 --> 00:09:41,890
+So that's installed.
+
+141
+00:09:41,910 --> 00:09:42,750
+Click finish.
+
+142
+00:09:43,880 --> 00:09:48,680
+And then you should be able to select the version that you've downloaded next.
+
+143
+00:09:48,720 --> 00:09:51,570
+It's just a summary of the options that you've selected.
+
+144
+00:09:52,610 --> 00:09:57,580
+A few advance settings we'll be using later on in the course.
+
+145
+00:09:57,650 --> 00:10:01,460
+But for now we'll leave those all that he felt and click Finish.
+
+146
+00:10:03,040 --> 00:10:06,060
+That will then set up our Android virtual device.
+
+147
+00:10:07,380 --> 00:10:10,390
+And we can select it and click OK.
+
+148
+00:10:10,650 --> 00:10:11,790
+And there it is.
+
+149
+00:10:11,800 --> 00:10:19,660
+So it'll pop up on our screen we can control it using the icons then we do have to then wait for our
+
+150
+00:10:19,660 --> 00:10:21,970
+app to build using cradle.
+
+151
+00:10:22,270 --> 00:10:26,140
+And we'll also have to wait for the emulator to start up.
+
+152
+00:10:26,140 --> 00:10:33,700
+Here we go so our app is built with zero errors and our phone is just beating up the.
+
+153
+00:10:33,720 --> 00:10:34,670
+And here we go.
+
+154
+00:10:34,980 --> 00:10:35,930
+So the app is up and running.
+
+155
+00:10:35,930 --> 00:10:38,470
+You can see we've got a message here is to me why isn't responding.
+
+156
+00:10:38,470 --> 00:10:45,310
+That's just because the startup process is still going on by clicking wait usually just makes the message
+
+157
+00:10:45,430 --> 00:10:46,120
+go away.
+
+158
+00:10:46,120 --> 00:10:49,500
+So congratulations you've built and run your first Android app.
+
+159
+00:10:49,630 --> 00:10:54,250
+Obviously it doesn't do a great deal yet but that will change as we learn how to customize and code
+
+160
+00:10:54,280 --> 00:10:56,540
+our apps in the next few years.
